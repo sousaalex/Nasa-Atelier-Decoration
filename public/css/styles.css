@@ -11050,16 +11050,16 @@ html {
 a[type='submit']{
   background-color: transparent;
   color: #dfdfdf;
-  padding: .5em;
-  text-align: center;
-  width: 55%;
-  border-radius: .2em ; 
-  display: grid;
-  cursor: pointer;
   margin: auto  ;
-  transition: 1s;
+  display: flex;
+  padding: .7em;
+  flex-direction: column;
+  text-align: center;
+  width: 35em;
   border: 2px #c4c0c0 solid; 
-  text-decoration: none;
+  border-radius: .2em ; 
+  transition: 1s;
+
 
 }
 .button-submit{
