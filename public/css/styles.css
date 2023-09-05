@@ -11191,3 +11191,11 @@ a[type='submit']:hover{
   a:active .button-text {
     color: rgba(255, 255, 255, 0.459);
   }
+
+  .contact-btn{
+    margin: auto;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+ 
+    }
