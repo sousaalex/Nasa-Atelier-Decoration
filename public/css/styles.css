@@ -246,7 +246,7 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  color: var(--bs-pink);
   text-decoration: underline;
 }
 a:hover {
@@ -11076,9 +11076,7 @@ a[type='submit']:hover{
     text-decoration: none;
     color: var(--bs-pink);
   }
-  a:hover{
-    color: pink;
-  }
+ 
  */
 
   /* ---------- */
@@ -11199,3 +11197,8 @@ a[type='submit']:hover{
     align-items: center;
  
     }
+    a:hover{
+      color: palevioletred;
+      
+    }
+  
